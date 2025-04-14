@@ -14,10 +14,9 @@ Analytical, detail-oriented, and driven by data, I am a Data Analyst with a pass
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
-
 <img src="excel (1).png" alt="excel" width="36" height="36">
  
+</p>
 
 
 ### Socials
