@@ -16,7 +16,9 @@ A Marketing graduate based in Birmingham, currently making an intentional career
 <img src="excel (1).png" alt="excel" width="36" height="36">
 <img src="icons8-power-bi-2021-48.png" alt="icons8-power-bi-2021-48" width="36" height="36">
 <img src="PN.png" alt="PN" width="36" height="36">
-
+<img src="GC.png" alt="GC" width="36" height="36">
+<img src="AZ.png" alt="AZ" width="36" height="36">
+<img src="TB.png" alt="TB" width="36" height="36">
   
 </p>
 
