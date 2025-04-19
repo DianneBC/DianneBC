@@ -15,7 +15,7 @@ A Marketing graduate based in Birmingham, currently making an intentional career
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <img src="excel (1).png" alt="excel" width="36" height="36">
 <img src="icons8-power-bi-2021-48.png" alt="icons8-power-bi-2021-48" width="36" height="36">
-<img src="PN).png" alt="PN" width="36" height="36">
+<img src="PN.png" alt="PN" width="36" height="36">
 
   
 </p>
