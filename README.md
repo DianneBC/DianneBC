@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dianne Broomfield-Carter
 ================================================================================================================================================
 
-Data Analysis
+Data Analyst
 -------------
 A Marketing graduate based in Birmingham, currently making an intentional career shift from retail management into data analytics and technology. With several years of experience leading teams and driving operations in fast-paced retail environments, I’ve built a solid foundation in problem-solving, performance tracking, and people management. Along the way, I developed a genuine interest in the data behind business decisions and became increasingly drawn to how technology can enhance processes and improve customer experiences. That curiosity led me to pursue data analytics, where I’m now developing skills in Tableau,PowerBi,Azure, SQL, Excel, and Python — with a particular focus on building interactive dashboards that transform raw data into actionable insights. Whether it's streamlining workflows, identifying cost-saving opportunities, or forecasting market trends, I thrive on solving complex problems with data at the core. I’m passionate about using data and tech to tell meaningful stories, especially within marketing and business strategy, and I’m excited to keep learning, growing, and connecting with others who share a love for innovation.
 
